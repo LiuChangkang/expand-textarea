@@ -1,6 +1,6 @@
 # expand-textarea
 ## 基于vue的自适应textarea 文本域
-## [github](https://github.com/LiuChangkang/expand-textarea)
+#### [github](https://github.com/LiuChangkang/expand-textarea)
 
 ## install
 ```
