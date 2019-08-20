@@ -1,6 +1,6 @@
 {
   "name": "expand-textarea",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "LiuChangkang",
   "keywords": [
     "textarea",
@@ -8,6 +8,10 @@
   ],
   "description": "vue expand textarea",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiuChangkang/expand-textarea"
+  },
   "main": "packages/index.js",
   "license": "MIT",
   "scripts": {
